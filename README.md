@@ -2,7 +2,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48px">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" width="48px">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Assembly.svg" width="48px">
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" width="48px">
   <br>
   T2HASH CORE
 </h1>
@@ -10,11 +10,11 @@
 <h4 align="center">موتور تونلینگ لایه صفر (Layer-0) با اسمبلی — تأخیر زیر میلی‌ثانیه، انتقال مقاوم در برابر DPI</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%D9%86%D8%B3%D8%AE%D9%87-3.0-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C-x64_Assembly-8A2BE2?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%B2%DB%8C%D8%B1_%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D8%AB%D8%A7%D9%86%DB%8C%D9%87-black?style=for-the-badge&logo=speedtest&logoColor=white">
-  <img src="https://img.shields.io/badge/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D9%82%D8%A7%D9%88%D9%85_DPI-purple?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/%D9%87%D8%B3%D8%AA%D9%87-Ring_0_Syscalls-blue?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badg&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Latency-Sub--Millisecond-black?style=for-the-badge&logo=speedtest&logoColor=white">
+  <img src="https://img.shields.io/badge/Obfuscation-XOR_Chained-darkred?style=for-the-badge&logo=webassembly&logoColor=white">
+  <img src="https://img.shields.io/badge/Stealth-Anti--DPI_Engine-purple?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Kernel-Ring_0_Syscalls-blue?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <p align="center">
